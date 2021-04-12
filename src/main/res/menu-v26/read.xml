@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Return"
+        android:title="Вернуться к прочитаному">
+    </item>
+    <item
+        android:id="@+id/ShowAllImage"
+        android:title="Показать все картинки">
+    </item>
+    <item
+        android:id="@+id/Settings"
+        android:title="Настройки">
+    </item>
+    <item
+        android:id="@+id/Retrying"
+        android:title="Повторить попытку">
+    </item>
+    <item
+        android:id="@+id/Next"
+        android:title="Cледующая глава"
+        app:showAsAction="always">
+    </item>
+</menu>
